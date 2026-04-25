@@ -1,8 +1,8 @@
-p{
-    size: 900px;
-    color: rgb(241, 240, 240);
+h1{
+
+    color: rgb(30, 15, 15);
     font-weight: bolder;
 }
 body{
-    background-color: black;
+    background-color: rgb(164, 169, 172);
 }
