@@ -1,5 +1,8 @@
 p{
     size: 900px;
-    color: rgb(205, 16, 45);
+    color: rgb(241, 240, 240);
     font-weight: bolder;
+}
+body{
+    background-color: black;
 }
